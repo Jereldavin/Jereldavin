@@ -28,7 +28,7 @@ Git • Docker
 ### 📜 Certifications & Learnings
 - **Associate Data Engineer** — *DataCamp*
 - **dbt Fundamentals** — *dbt Labs*
-- **Databricks Lakehouse Fundamentals** — *Databricks*
+- **Databricks Fundamentals** — *Databricks*
 
 
 ---
