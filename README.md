@@ -34,5 +34,5 @@ Git • Docker
 ---
 ### Links
 
-- [LinkedIn](https://www.linkedin.com/in/jereldavin-igvander-a18401229)
+- [LinkedIn](https://www.linkedin.com/in/jereldavin)
 - Email: `Jereldavinigvander@gmail.com`
