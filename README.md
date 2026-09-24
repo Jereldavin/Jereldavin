@@ -7,7 +7,7 @@ Data & AI Engineering.
 
 **Data Engineering & Orchestration**
 ```text
-Python • SQL • dbt • Apache Airflow • Databricks • Delta Lake • Apache Kafka • Debezium
+Python • SQL • dbt • Apache Airflow • Databricks • Delta Lake • Apache Kafka • Debezium • GCP
 ```
 
 **Databases & Storage**
