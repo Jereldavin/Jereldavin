@@ -29,6 +29,7 @@ Git • Docker
 - **Associate Data Engineer** — *DataCamp*
 - **dbt Fundamentals** — *dbt Labs*
 - **Databricks Fundamentals** — *Databricks*
+- **Introduction to Data Engineering in Google CLoud** — *Google Skill*
 
 
 ---
