@@ -35,5 +35,6 @@ Git • Docker
 ---
 ### Links
 
+- cv : https://bit.ly/47saekJ
 - [LinkedIn](https://www.linkedin.com/in/jereldavin)
 - Email: `Jereldavinigvander@gmail.com`
