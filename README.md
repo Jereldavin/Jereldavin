@@ -1,13 +1,13 @@
 # Jereldavin Igvander
 
-Data & AI Engineering. 
+Data & AI . 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 **Data Engineering & Orchestration**
 ```text
-Python • SQL • dbt • Apache Airflow • Databricks • Delta Lake • Apache Kafka • Debezium • GCP
+Python • SQL • dbt • Apache Airflow • Databricks • Delta Lake • Apache Kafka •
 ```
 
 **Databases & Storage**
