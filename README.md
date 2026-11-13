@@ -1,4 +1,4 @@
-# Jereldavin Igvander
+# Jereldavin Igvander -  Portfolio: https://jereldavin-portfolio.vercel.app/
 
 Data & AI
 
